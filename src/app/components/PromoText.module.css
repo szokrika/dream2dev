@@ -1,0 +1,24 @@
+.promo {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin: 0;
+  border: 1px solid #e6e6e6;
+  border-radius: 5px;
+  font-size: 20px;
+  color: #333;
+  font-weight: 300;
+  line-height: 1.5;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+.title {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.copy {
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 20px;
+}

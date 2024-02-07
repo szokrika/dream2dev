@@ -1,0 +1,13 @@
+.default {
+  display: inline-flex;
+  color: #fbfdf8;
+  background-color: #d8af5f;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+.default:hover {
+  color: #fff;
+  background-color: #c89b4e;
+}

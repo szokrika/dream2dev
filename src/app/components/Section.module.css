@@ -1,0 +1,32 @@
+.section {
+  margin-bottom: 40px;
+  max-width: 1280px;
+}
+.title {
+  column-span: all;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+.columns-1 {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+.columns-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.content {
+}
+@media only screen and (max-width: 768px) {
+  .section {
+    max-width: 100vw;
+  }
+  .columns-2 {
+    grid-template-columns: 1fr;
+  }
+  .title {
+    text-align: center;
+  }
+}
