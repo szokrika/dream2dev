@@ -6,7 +6,7 @@ function Footer() {
     <footer className={styles.footer}>
       <ul className={styles.nav}>
         <li>
-          <a href="/home">Home</a>
+          <a href="/">Home</a>
         </li>
         <li>
           <a href="/about">About</a>

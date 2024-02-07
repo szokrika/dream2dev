@@ -4,7 +4,7 @@ import styles from './Nav.module.css';
 function Nav() {
   return (
     <nav className={styles.nav}>
-      <a href="/home">
+      <a href="/">
         <img src="logo.png" alt="Logo" />
       </a>
       <ul>
