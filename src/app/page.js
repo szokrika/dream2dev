@@ -30,20 +30,20 @@ const imagePromo = [
   {
     title: 'Boosting conversions',
     text: 'We help you increase your sales. Learn how!',
-    image: '/4_ww8Ds6sB.webp',
+    image: '/image1.jpg',
     link: { href: '/services', text: 'Learn more' },
   },
   {
     title: 'Mobile ready',
     text: 'Our services are mobile-friendly. Learn more!',
-    image: '/5_ww8Ds6sB.webp',
+    image: '/image2.png',
     link: { href: '/services', text: 'Learn more' },
     layout: 'right',
   },
   {
     title: 'SEO optimized',
     text: 'We help you rank higher in search engines. Learn more!',
-    image: '/6_ww8Ds6sB.webp',
+    image: '/image1.jpg',
     link: { href: '/services', text: 'Learn more' },
   },
 ];

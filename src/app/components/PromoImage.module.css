@@ -1,5 +1,6 @@
 .promo {
   width: 100%;
+  max-width: 1200px;
   margin: 50px;
   display: flex;
   align-items: center;
